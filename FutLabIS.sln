@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altairis.FutLabIS.Data", "Altairis.FutLabIS.Data\Altairis.FutLabIS.Data.csproj", "{AAB676C4-8C49-4574-9BBE-8D16F55F62AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altairis.FutLabIS.Web", "Altairis.FutLabIS.Web\Altairis.FutLabIS.Web.csproj", "{AC8DA41E-034A-41F3-BDFE-3FCBC3A079DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B7FAFED-4F0D-4906-AF76-316BDAE554BE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB676C4-8C49-4574-9BBE-8D16F55F62AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB676C4-8C49-4574-9BBE-8D16F55F62AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB676C4-8C49-4574-9BBE-8D16F55F62AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB676C4-8C49-4574-9BBE-8D16F55F62AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8DA41E-034A-41F3-BDFE-3FCBC3A079DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8DA41E-034A-41F3-BDFE-3FCBC3A079DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8DA41E-034A-41F3-BDFE-3FCBC3A079DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8DA41E-034A-41F3-BDFE-3FCBC3A079DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16FA7204-E761-4F89-B27C-870BC55D4095}
+	EndGlobalSection
+EndGlobal

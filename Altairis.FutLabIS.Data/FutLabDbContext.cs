@@ -10,6 +10,10 @@ namespace Altairis.FutLabIS.Data
         {
         }
 
+        public DbSet<Resource> Resources { get; set; }
+
+        public DbSet<Reservation> Reservations { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
